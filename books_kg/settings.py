@@ -40,8 +40,7 @@ INSTALLED_APPS = [
     'books',
     'rest_framework',
     'phone',
-
-
+    'football',
 ]
 
 MIDDLEWARE = [
